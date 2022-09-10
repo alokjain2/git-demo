@@ -2,10 +2,6 @@
 
 This is the first file in this repo.
 
-##Next level of text below
+##Website contents
 
-This is the second level of text
-
-##Some more text
-
-This is the third level of text
+1. index.html
